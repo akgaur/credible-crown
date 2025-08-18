@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { View, Text } from 'react-native';
+// ...file intentionally left blank (screen removed as per new layout)...
+import { Text, View } from 'react-native';
 import Input from '../components/Input';
 import PrimaryButton from '../components/PrimaryButton';
 import SecondaryButton from '../components/SecondaryButton';
